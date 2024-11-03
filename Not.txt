@@ -1,0 +1,13 @@
+	*** SMART AUTONOM DOOR OBSERVE SYSTEM (AKILLI OTONOM KAPI GÖZETLEME SİSTEMİ) 
+
+[en]
+- Just run the main.py file to run the program.
+- For the program to work, the compile process must be done on the Raspberry Pi device, because the pins will not be visible on a Windows device and the application will not run.
+- The program performs both face detection and face recognition by using the images folder as a database, and Sobel filters are also used, and by combining these mechanics with the functionality of the sensors, it reveals the entire application.
+- The program was written in accordance with Design Pattern, Multithreading and SOLID principles.
+
+[tr]
+- Programı çalıştırmak için sadece main.py dosyasını çalıştırın.
+- Programın çalışması için compile işlemi raspberry pi cihazı üzerinde yapılmalı çünkü windows bir cihazda pinler gözükmeyeceği için uygulama çalışmayacaktır.
+- Program images klasörünü veritabanı gibi kullanarak hem face detection hem de face recognition işlemi yapmaktadır ayrıca sobel filtreleride kullanılmaktadır ve bu mekanikleri sensörlerin işlevselliği ile birleştirerek uygulamanın tamamını ortaya çıkarmaktadır.
+- Program yazılırken Design Pattern, Multithreading ve SOLID prensiplerine uygun yazılmıştır.
